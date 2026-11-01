@@ -12,7 +12,7 @@ Our models were evaluated using four-fold time-series cross-validation and mean 
 
 ### Project Links
 
-- **[Original GitHub Repository — Code and Documentation](https://github.com/Ajay-Aryan/Stock_Price_Prediction)**
+- **[Original GitHub Repository: Code and Documentation](https://github.com/Ajay-Aryan/Stock_Price_Prediction)**
 - **[Erdős Institute Certificate and Project Presentation](https://www.erdosinstitute.org/certificates/may-summer-2024/data-science-boot-camp/deven-gill/bef469d2-2d9f-4644-9cc3-2874a5b0118c)**
 
 The original project was completed collaboratively. The code, notebooks, and complete documentation are maintained in the linked team repository.
